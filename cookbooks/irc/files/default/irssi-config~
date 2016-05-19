@@ -1,0 +1,9 @@
+servers = (
+  {
+    address = "irc.freenode.net";
+    chatnet = "Freenode";
+    port = "6667";
+    autoconnect = "Yes";
+  }
+);
+	
